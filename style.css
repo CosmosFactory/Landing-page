@@ -118,8 +118,14 @@ button{
     height:180px;
     border:5px solid #3882F6;
     border-radius:10px;
+    margin-bottom:10px;
 }
 
 .img-n-subtext{
     width: 180px;
+}
+
+.subtext{
+    color:#1f2937a4;
+    text-align: center;
 }
