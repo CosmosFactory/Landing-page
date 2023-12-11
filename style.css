@@ -11,10 +11,14 @@ nav{
 
 .header-logo{
     flex:1;
+    font-size: 24px;
+    color:#F9FAF8;
 }
 .header-links{
     display:flex;
-    flex:1;
+    flex:1; 
+    font-size: 18px;
+    color:#E5E7EB;
 }
 
 a {
