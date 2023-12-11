@@ -4,6 +4,9 @@
     margin:0;
 }
 
+header, .presentation{
+    background-color: #1F2937;
+}
 nav{
     display:flex; 
     padding:20px 60px;
@@ -28,3 +31,4 @@ a {
 nav ul{
     list-style-type: none;
 }
+
