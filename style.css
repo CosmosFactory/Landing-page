@@ -74,5 +74,8 @@ button{
 .sign-up{
     width: 150px;
     background-color:#3882F6;
+    border-radius:5px;
+    justify-content: center;
+    display:flex;
     
 }
