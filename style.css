@@ -22,9 +22,12 @@ nav{
     display:flex;
     flex:1; 
     font-size: 18px;
-    color:#E5E7EB;
     gap:30px;
     justify-content: center;
+}
+
+.header-links a{
+color:#E5E7EB;
 }
 
 a {
