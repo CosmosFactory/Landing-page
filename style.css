@@ -11,3 +11,11 @@ nav{
 .header-links{
     display:flex;
 }
+
+a {
+    text-decoration: none;
+}
+
+nav ul{
+    list-style-type: none;
+}
