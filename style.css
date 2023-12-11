@@ -59,3 +59,7 @@ button{
     color:#F9FAF8;
   
 }
+
+.presentation{
+    display:flex;
+}
