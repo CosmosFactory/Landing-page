@@ -84,4 +84,6 @@ button{
 .picture{
     background-color:grey;
     display:flex;
+    justify-content: center;
+    align-items: center;
 }
