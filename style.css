@@ -129,3 +129,12 @@ button{
     color:#1f2937a4;
     text-align: center;
 }
+
+.testimonial{
+    background-color:#E5E7EB;
+}
+
+.quote{
+    font-size:36px;
+    font-style: italic;
+}
