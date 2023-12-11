@@ -58,7 +58,7 @@ button{
 #sign-up{
     background-color:#3882F6;
     color:#F9FAF8;
-  
+
 }
 
 .presentation{
@@ -69,4 +69,9 @@ button{
 
 .info,.picture{
     flex:1;
+}
+
+.sign-up{
+    width: 150px;
+    
 }
