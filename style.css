@@ -8,8 +8,12 @@ nav{
     display:flex; 
 }
 
+.header-logo{
+    flex:1;
+}
 .header-links{
     display:flex;
+    flex:1;
 }
 
 a {
