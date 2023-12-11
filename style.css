@@ -62,4 +62,10 @@ button{
 
 .presentation{
     display:flex;
+    padding:110px 90px;
+    gap:20px;
+}
+
+.info,.picture{
+    flex:1;
 }
