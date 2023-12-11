@@ -56,7 +56,7 @@ button{
 }
 
 #sign-up{
-    background-color:#3882F6;
+    
     color:#F9FAF8;
 
 }
@@ -73,5 +73,6 @@ button{
 
 .sign-up{
     width: 150px;
+    background-color:#3882F6;
     
 }
