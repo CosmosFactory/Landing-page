@@ -106,3 +106,7 @@ button{
     align-items: center;
     padding:50px;
 }
+
+.info-img{
+    display:flex;
+}
