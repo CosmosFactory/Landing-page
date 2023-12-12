@@ -162,4 +162,5 @@ button{
     background-color: #3882F6;
     width:900px;
     height:150px;
+    display:flex;
 }
