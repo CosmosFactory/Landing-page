@@ -145,4 +145,8 @@ button{
 .quote-author{
     display:flex;
     justify-content: flex-end;
+    color:#1f2937;
+    font-weight:bold;
+    font-size: 25px;
+
 }
