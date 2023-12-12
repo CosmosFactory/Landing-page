@@ -172,4 +172,6 @@ button{
 #call-to-action-signup{
     border:2px solid #F9FAF8;
     padding:5px 25px;
+    color:#F9FAF8;
+    border-radius: 10px;
 }
