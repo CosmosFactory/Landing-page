@@ -171,3 +171,7 @@ button{
     font-size: 24px;
     font-weight:600;
 }
+
+.call-to-action.text{
+    color:#F9FAF8;
+}
