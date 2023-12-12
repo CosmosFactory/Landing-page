@@ -157,6 +157,7 @@ button{
     height:150px;
     display:flex;
     padding:50px 100px;
+    border-radius: 10px;
 }
 
 .call-to-action.text-title{
