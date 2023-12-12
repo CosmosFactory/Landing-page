@@ -187,6 +187,8 @@ button{
 footer{
     background-color: #1F2937;
     padding:40px;
+    display:flex;
+    justify-content: center;
 }
 
 .copyright{
