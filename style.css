@@ -141,3 +141,8 @@ button{
     font-weight: 100;
     color:#1f2937;
 }
+
+.quote-author{
+    display:flex;
+    justify-content: flex-end;
+}
