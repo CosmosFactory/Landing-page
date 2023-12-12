@@ -183,3 +183,8 @@ button{
     align-items: center;
     flex:1
 }
+
+footer{
+    background-color: #1F2937;
+    padding:40px;
+}
