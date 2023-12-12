@@ -153,5 +153,13 @@ button{
 
 .call-to-action.section{
     display:flex;
-    
+    justify-content: center;
+
+}
+
+.call-to-action.container{
+    background-color: #3882F6;
+    width:900px;
+    height:150px;
+
 }
