@@ -154,6 +154,7 @@ button{
 .call-to-action.section{
     display:flex;
     justify-content: center;
+    padding:100px;
 
 }
 
@@ -161,5 +162,4 @@ button{
     background-color: #3882F6;
     width:900px;
     height:150px;
-
 }
