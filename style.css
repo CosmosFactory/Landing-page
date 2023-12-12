@@ -132,11 +132,12 @@ button{
 
 .testimonial{
     background-color:#E5E7EB;
-    padding:150px 200px;
+    padding:150px 250px;
 }
 
 .quote{
     font-size:36px;
     font-style: italic;
     font-weight: 100;
+    color:#1f2937;
 }
